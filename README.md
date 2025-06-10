@@ -1,5 +1,9 @@
 # 💫 Hi I'm Emmanuel!
-- 🔭 I’m currently studying at Bohol Island State University - Bilar Campus<br>- 🌱 I’m currently learning about the universe
+🔭 I’m currently studying Computer Science at Bohol Island State University - Bilar Campus.
+🌱 Alongside my core studies in programming, software development, and data structures, I’m also diving into the wonders of the universe—exploring topics like space, astronomy, and the mysteries of the cosmos.
+🧠 I’m passionate about how technology can intersect with science, especially in fields like space exploration, simulation, and data analysis.
+💻 Whether it’s building software or understanding the physics of the stars, I’m driven by curiosity and the desire to learn continuously.
+🚀 One of my goals is to combine my computer science skills with space-related fields, possibly in areas like artificial intelligence for space missions or scientific data visualization.
 
 
 ## 🌐 Socials:
