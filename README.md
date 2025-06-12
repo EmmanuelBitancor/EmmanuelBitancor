@@ -2,13 +2,8 @@
   <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="Coding" width="100%"/>
 </div>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Emmanuel S. Bitancor<br/><p>A passionate Computer Science Student Developer</p></h1>
 
-<h1 align="center">Hi 👋, I'm Emmanuel S. Bitancor</h1>
-<p align="center">A passionate Computer Science Student Developer</p>
-
-
----
 
 - 🔭 I’m currently working on [COMSOCxCCSET](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech)  
 - 🌱 I’m currently learning **React & Node JS**  
