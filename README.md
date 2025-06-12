@@ -5,7 +5,7 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Emmanuel S. Bitancor</h1>
 <h3 align="center" style="color: #b0b0b0;">A passionate Computer Science Student</h3>
 
-<img align="right" alt="coding" width="450" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
+<img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="emmanuelbitancor" /> </p>
 
