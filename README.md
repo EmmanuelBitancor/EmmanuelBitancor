@@ -26,20 +26,22 @@
 </div>
 
 <div align="center">
-
-  <table>
+  <table width="90%">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="100%" />
       </td>
-       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="100%" />
       </td>
-      <td>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="GitHub Streak" />
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
+</div>
+
+
 
 </div>
 
