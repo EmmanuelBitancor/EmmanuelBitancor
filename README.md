@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/af/55/fa/af55fafdcac083449327d2d2cdf9ed1d.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="josephmangmang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="emmanuelbitancor" /> </p>
 
 - 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech)
 
@@ -23,14 +23,23 @@
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&layout=compact&theme=dark" alt="emmanuelbitancor" /></p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      </td>
+       <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+      </td>
+      <td>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
 </div>
-<div align="center">
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="josephmangmang" /></p>
-</div>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="emmanuelbitancor" /></p>
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
