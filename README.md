@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Emmanuel S. Bitancor</h1>
-<h3 align="center">A passionate Computer Science Student Developer</h3>
-
 <div align="center">
   <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="Coding" width="100%"/>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelbitancor" />
-</p>
+---
+<h1 align="center">Hi 👋, I'm Emmanuel S. Bitancor</h1>
+<p align="center">A passionate Computer Science Student Developer</p>
+
 
 ---
 
