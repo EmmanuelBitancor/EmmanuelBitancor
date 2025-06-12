@@ -4,7 +4,6 @@
 
 <br/>
 
----
 <h1 align="center">Hi 👋, I'm Emmanuel S. Bitancor</h1>
 <p align="center">A passionate Computer Science Student Developer</p>
 
