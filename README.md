@@ -29,13 +29,13 @@
   <table width="90%">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="100%" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelbitancor&show_icons=true&theme=dark" alt="emmanuelbitancor" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="100%" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelbitancor&show_icons=true&locale=en&theme=dark" alt="emmanuelbitancor" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="GitHub Streak" width="100%" />
+       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelbitancor&theme=dark" alt="emmanuelbitancor" />
       </td>
     </tr>
   </table>
