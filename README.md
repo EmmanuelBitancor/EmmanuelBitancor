@@ -32,10 +32,10 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=dark" alt="EmmanuelBitancor" />
       </td>
       <td align="center">
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="emmanuelbitancor" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="EmmanuelBitancor" />
       </td>
       <td align="center">
-       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="emmanuelBitancor" />
+       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&theme=dark" alt="EmmanuelBitancor" />
       </td>
     </tr>
   </table>
