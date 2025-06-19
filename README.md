@@ -34,6 +34,9 @@
       <td align="center">
        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="EmmanuelBitancor" />
       </td>
+      <td align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&" alt="emmanuelbitancor" />
+      </td>
     </tr>
   </table>
 </div>
