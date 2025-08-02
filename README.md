@@ -5,26 +5,22 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Emmanuel S. Bitancor</h1>
 <h3 align="center" style="color: #b0b0b0;">A passionate Computer Science Student</h3>
 
-## 🌟 About Me
+<img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="emmanuelbitancor" /> </p>
+
+- 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for researchers.
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-xi-steel-96.vercel.app/)
 
 - 🎓 I’m a learner at **Bohol Island State University** and passionate about building smart, helpful technology.
 - 💻 Focused on **React**, **React Native**, and **Backend Development**.
-- 📱 Currently building **COMSOC X CCSET** – an online conference system for researchers.
 - 💡 Experienced in **Node.js**, **JavaScript**, and **IoT projects**.
 - 🤖 Enthusiastic about **AI, automation**.
 - 🌱 Always open to **learning new technologies, tools, and programming languages** to grow as a developer.  
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="emmanuelbitancor" /> </p>
-
-- 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-xi-steel-96.vercel.app/)
-
----
 
 ## 🧰 Tech Stack
 
@@ -37,16 +33,12 @@
 
 ---
 
----
-
 ## 🚧 Current Projects
 
 - 🔹 **COMSCO X CCSET** –  A conference system for submitting and publishing research papers   
 - 🔹 **Thesis Checker** – A Web Platform for students to manage their Thesis Paper 
 - 🔹 **FlexLab** – An Ecommerce Web Platform for Filipino Street Wear and Fashion
 - 🔹 **Cuisina.ai** – AI-Powered Mobile Application to scan meat freshness and nutrition
----
-
 ---
 
 ## 🎯 Fun Fact
