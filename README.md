@@ -7,8 +7,6 @@
 
 <img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelBitancor&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="emmanuelbitancor" /> </p>
-
 - 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for researchers.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-xi-steel-96.vercel.app/)
