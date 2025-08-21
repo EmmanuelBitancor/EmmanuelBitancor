@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
-- 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for researchers.
+- 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for Bohol Island State University - Bilar Campus, College of Technology that is beneficial for faculty and Students Thesis Papers.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-xi-steel-96.vercel.app/)
 
@@ -31,6 +31,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 
