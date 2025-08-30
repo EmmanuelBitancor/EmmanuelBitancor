@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for Bohol Island State University - Bilar Campus, College of Technology that is beneficial for faculty and Students Thesis Papers.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-xi-steel-96.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://emmans-portfolio.vercel.app/)
 
 - 🎓 I’m a learner at **Bohol Island State University** and passionate about building smart, helpful technology.
 - 💻 Focused on **React**, **React Native**, and **Backend Development**.
