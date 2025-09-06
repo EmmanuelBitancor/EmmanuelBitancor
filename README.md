@@ -2,23 +2,23 @@
   <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="logo" width="100%" />
 </div>
 
-<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Emmanuel S. Bitancor</h1>
-<h3 align="center" style="color: #b0b0b0;">A passionate Computer Science Student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=21&duration=4000&color=FFFFFF&center=true&vCenter=true&lines=Hi+👋,+I'm+Emmanuel+S.+Bitancor;A+Computer+Science+Student" alt="Typing SVG" />
+</h1>
 
 <img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
-- 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for Bohol Island State University - Bilar Campus, College of Technology that is beneficial for faculty and Students Thesis Papers.
+- 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for Bohol Island State University - Bilar Campus, College of Technology that is beneficial for faculty and Students Thesis Papers.  
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://emmans-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://emmans-portfolio.vercel.app/)  
 
-- 🎓 I’m a learner at **Bohol Island State University** and passionate about building smart, helpful technology.
-- 💻 Focused on **React**, **React Native**, and **Backend Development**.
-- 💡 Experienced in **Node.js**, **JavaScript**, and **IoT projects**.
-- 🤖 Enthusiastic about **AI, automation**.
+- 🎓 I’m a learner at **Bohol Island State University** and passionate about building smart, helpful technology.  
+- 💻 Focused on **React**, **React Native**, and **Backend Development**.  
+- 💡 Experienced in **Node.js**, **JavaScript**, and **IoT projects**.  
+- 🤖 Enthusiastic about **AI, automation**.  
 - 🌱 Always open to **learning new technologies, tools, and programming languages** to grow as a developer.  
 
 ---
-
 
 ## 🧰 Tech Stack
 
@@ -38,49 +38,45 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 🚧 Current Projects
 
--  COMSCO X CCSET –  A conference system for submitting and publishing research papers   
--  Thesis Checker – A Web Platform for students to manage their Thesis Paper 
--  FlexLab – An Ecommerce Web Platform for Filipino Street Wear and Fashion
--  Cuisina.ai – AI-Powered Mobile Application to scan meat freshness and nutrition
+-  **COMSCO X CCSET** –  A conference system for submitting and publishing research papers   
+-  **Thesis Checker** – A Web Platform for students to manage their Thesis Paper  
+-  **FlexLab** – An Ecommerce Web Platform for Filipino Street Wear and Fashion  
+-  **Cuisina.ai** – AI-Powered Mobile Application to scan meat freshness and nutrition  
+
 ---
 
 ## 🎯 Fun Fact
 
-✨ I love playing mobile games, reading manga watching anime and playing instruments.
+✨ I love playing mobile games, reading manga, watching anime and playing instruments.  
 
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-
-<br/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <table width="90%">
     <tr>
       <td align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=dark" alt="EmmanuelBitancor" />
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=dark" alt="EmmanuelBitancor" />
       </td>
       <td align="center">
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="EmmanuelBitancor" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="Top Langs" />
       </td>
       <td align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&show_icons=true&theme=dark" alt="emmanuelbitancor" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelBitancor&show_icons=true&theme=dark" alt="Streak Stats" />
       </td>
     </tr>
   </table>
-</div>
-
-
-
 </div>
 
 ---
@@ -102,9 +98,6 @@
   </a>
 </p>
 
-
 ---
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
