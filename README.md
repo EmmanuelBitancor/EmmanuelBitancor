@@ -12,12 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://emmans-portfolio.vercel.app/)  
 
-- 🎓 I’m a learner at **Bohol Island State University** and passionate about building smart, helpful technology.  
-- 💻 Focused on **React**, **React Native**, and **Backend Development**.  
-- 💡 Experienced in **Node.js**, **JavaScript**, and **IoT projects**.  
-- 🤖 Enthusiastic about **AI, automation**.  
-- 🌱 Always open to **learning new technologies, tools, and programming languages** to grow as a developer.  
-
 ---
 
 ## 🧰 Tech Stack
@@ -38,22 +32,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
----
-
-## 🚧 Current Projects
-
--  **COMSCO X CCSET** –  A conference system for submitting and publishing research papers   
--  **Thesis Checker** – A Web Platform for students to manage their Thesis Paper  
--  **FlexLab** – An Ecommerce Web Platform for Filipino Street Wear and Fashion  
--  **Cuisina.ai** – AI-Powered Mobile Application to scan meat freshness and nutrition  
-
----
-
-## 🎯 Fun Fact
-
-✨ I love playing mobile games, reading manga, watching anime and playing instruments.  
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
