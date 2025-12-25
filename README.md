@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Comsoc Journal System](https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech) – an online conference system for Bohol Island State University - Bilar Campus, College of Technology that is beneficial for faculty and Students Thesis Papers.  
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://emmans-portfolio.vercel.app/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://esb-portfolio.vercel.app/)  
 
 ---
 
