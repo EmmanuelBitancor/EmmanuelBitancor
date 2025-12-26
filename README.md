@@ -24,27 +24,6 @@
 
 <hr/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=radical&count_private=true" alt="Emmanuel's GitHub Stats" />
-      </td>
-      <td align="center" style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBitancor&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=radical&border_radius=5" alt="GitHub Streak" />
-</div>
-
-<hr/>
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -79,3 +58,24 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="border: none; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=radical&count_private=true" alt="Emmanuel's GitHub Stats" />
+      </td>
+      <td align="center" style="border: none; padding-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBitancor&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=radical&border_radius=5" alt="GitHub Streak" />
+</div>
+
+<hr/>
