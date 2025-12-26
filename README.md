@@ -13,7 +13,7 @@
 <div align="center">
   <h3>🔭 Current Focus</h3>
   <a href="https://bisubilarctech-0adba2bc1c57.herokuapp.com/Ctech">
-    <img src="https://img.shields.io/badge/Project-Comsoc_Journal_System-blue?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/Project-Comsoc_Journal_System-ff0055?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <p>An online conference system for Bohol Island State University (Bilar Campus) facilitating thesis management for faculty and students.</p>
   
@@ -24,25 +24,26 @@
 
 <hr/>
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github.com/EmmanuelBitancor/EmmanuelBitancor/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
-  
-  <br/><br/>
-
-  <table width="100%" style="border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td width="50%" align="center" style="border: none; vertical-align: top; padding-right: 10px;">
-        <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" style="max-width: 100%;" />
+      <td align="center" style="border: none; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=radical&count_private=true" alt="Emmanuel's GitHub Stats" />
       </td>
-      <td width="50%" align="center" style="border: none; vertical-align: top; padding-left: 10px;">
-        <img src="https://github-profile-trophies.vercel.app/?username=EmmanuelBitancor&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" style="max-width: 100%;" />
+      <td align="center" style="border: none; padding-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBitancor&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=radical&border_radius=5" alt="GitHub Streak" />
 </div>
+
+<hr/>
 
 ## 🧰 Tech Stack
 
@@ -78,6 +79,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
-
-<hr/>
-
