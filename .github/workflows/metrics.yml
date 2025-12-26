@@ -22,3 +22,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
+          
+          # This makes the image wider and tidier (fixes "too large" height)
+          config_twocolumn: yes
+
+          # Plugins - This adds your Top Languages inside the card
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
