@@ -43,10 +43,10 @@
   <table width="90%">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-gayl00uvj-emmanuelbitancors-projects.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=dark" alt="EmmanuelBitancor" />
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=dark" alt="EmmanuelBitancor" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-gayl00uvj-emmanuelbitancors-projects.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmanuelBitancor&show_icons=true&locale=en&theme=dark" alt="Top Langs" />
       </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=dark" alt="GitHub Streak" />
