@@ -24,6 +24,26 @@
 
 <hr/>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github.com/EmmanuelBitancor/EmmanuelBitancor/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
+  
+  <br/><br/>
+
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="50%" align="center" style="border: none; vertical-align: top; padding-right: 10px;">
+        <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" style="max-width: 100%;" />
+      </td>
+      <td width="50%" align="center" style="border: none; vertical-align: top; padding-left: 10px;">
+        <img src="https://github-profile-trophies.vercel.app/?username=EmmanuelBitancor&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" style="max-width: 100%;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -61,21 +81,3 @@
 
 <hr/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github.com/EmmanuelBitancor/EmmanuelBitancor/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
-  
-  <br/><br/>
-
-  <table width="100%" style="border: none;">
-    <tr>
-      <td width="50%" align="center" style="border: none; vertical-align: top; padding-right: 10px;">
-        <img src="https://streak-stats.demolab.com?user=EmmanuelBitancor&theme=dark&hide_border=true&card_width=400" alt="GitHub Streak" style="max-width: 100%;" />
-      </td>
-      <td width="50%" align="center" style="border: none; vertical-align: top; padding-left: 10px;">
-        <img src="https://github-profile-trophies.vercel.app/?username=EmmanuelBitancor&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" style="max-width: 100%;" />
-      </td>
-    </tr>
-  </table>
-</div>
