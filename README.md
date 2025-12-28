@@ -17,7 +17,7 @@
   </a>
   <p>An online conference system for Bohol Island State University (Bilar Campus) facilitating thesis management for faculty and students.</p>
   
-  <a href="https://esb-portfolio.vercel.app/">
+  <a href="https://emmanuelbitancor.vercel.app/">
     <img src="https://img.shields.io/badge/View_My-Portfolio-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
