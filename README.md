@@ -65,7 +65,7 @@
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=radical&count_private=true" alt="Emmanuel's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBitancor&show_icons=true&theme=radical" alt="Emmanuel's GitHub Stats" />
       </td>
       <td align="center" style="border: none; padding-left: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBitancor&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
