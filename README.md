@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>🔭 Current Focus</h3>
-  <a href="https://bisubilarctech-0adba2bc1c57.herokuapp.com">
+  <a href="ctech.bisubilar.org">
     <img src="https://img.shields.io/badge/Project-Comsoc_Journal_System-ff0055?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <p>An online conference system for Bohol Island State University (Bilar Campus) facilitating thesis management for faculty and students.</p>
